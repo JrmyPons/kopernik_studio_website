@@ -1,1 +1,1 @@
-# kopernik_studio_website
+# Kopernik Studio Website
